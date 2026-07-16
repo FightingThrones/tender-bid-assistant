@@ -1,0 +1,35 @@
+company: 贵州某某科技有限公司
+found_year: 2020
+company_type: 小微企业
+business_scope:
+  - 软件开发
+  - 系统集成
+  - IT运维服务
+  - 数据治理与可视化
+certs:
+  - 营业执照
+  - 法定代表人授权书
+  - 软件企业认定
+  - 类似业绩证明
+team:
+  project_manager: 1
+  developers: 3
+  operations_engineers: 2
+  security_engineers: 1
+similar_projects:
+  - name: 某政务服务平台运维项目
+    year: 2025
+    amount: 38万
+    buyer_type: 政府部门
+  - name: 某医院信息化系统维护项目
+    year: 2024
+    amount: 26万
+    buyer_type: 医疗机构
+budget_hint: 50万
+pricing_strategy: 小微企业价格扣除优先；报价需覆盖人工、驻场、税费、售后与风险预备金
+service_area:
+  - 贵阳
+  - 贵州
+delivery_notes:
+  - 所有资质和业绩必须真实可核验
+  - 如公告要求厂商授权或专项资质，投标前单独确认

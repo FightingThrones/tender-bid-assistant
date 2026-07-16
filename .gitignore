@@ -1,0 +1,38 @@
+# Private template libraries and generated indexes
+data/
+private_bid_docs/
+*.ckpt.json
+catalog.json
+catalog.jsonl
+catalog_report.md
+
+# Generated drafts and local run outputs
+output/
+outputs/
+投标输出/
+_selftest/output/
+_selftest/output_real/
+_selftest/output_verify/
+_selftest/catalog/
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+envs/
+
+# Secrets and local machine files
+.env
+.env.*
+*.pem
+*.key
+id_*
+服务器信息*
+*.sqlite
+*.db
+
+# Office temporary files
+~$*
+*.tmp

@@ -1,0 +1,30 @@
+industry: 医疗运维
+scenario: 医院
+applicable: ''
+qualifications: []
+scoring:
+  price: null
+  technical: null
+  commercial: null
+sections:
+- id: '1'
+  title: 某医院信息化运维服务项目投标书
+  outline: []
+- id: '2'
+  title: 一、公司简介
+  outline: []
+- id: '3'
+  title: 二、类似业绩
+  outline: []
+- id: '4'
+  title: 三、技术方案
+  outline: []
+- id: '5'
+  title: 四、报价一览表
+  outline: []
+snippets:
+  一、公司简介: 我公司成立于2018年，专注于医疗行业信息化运维，拥有ISO9001与软件企业认定资质。
+  二、类似业绩: 近三年完成三甲医院运维项目5个，客户满意度98%。
+  三、技术方案: 采用7x24小时驻场+远程双保障模式，建立巡检-预警-处置闭环。
+deductions: []
+source_title: 某医院信息化运维服务项目投标书
