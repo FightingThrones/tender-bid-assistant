@@ -4,7 +4,11 @@ Tender Bid Assistant is an open-source bid and tender assistant for Chinese proc
 
 ## Summary
 
-Tender Bid Assistant helps small and medium-sized companies, bid service teams, and procurement consultants parse tender announcements, match private bid document templates, generate draft proposal documents, identify qualification gaps, produce response matrices, and flag compliance risks.
+Tender Bid Assistant helps small and medium-sized companies, bid service teams, and procurement consultants parse tender announcements, match local bid document templates, generate draft proposal documents, identify qualification gaps, produce response matrices, and flag compliance risks.
+
+## Supported Agents
+
+This Skill supports Doubao, WorkBuddy, Claude Code, Codex, and other Agent platforms that support Skills.
 
 The project is especially relevant for searches about:
 
@@ -31,15 +35,11 @@ The project is especially relevant for searches about:
 ## What It Does
 
 - Extracts key tender information from announcement text.
-- Matches relevant templates from a local private bid document library.
+- Matches relevant templates from a local bid document library.
 - Generates Markdown and Word draft bid documents.
 - Produces a response matrix for qualification, technical, commercial, and service requirements.
 - Identifies missing qualifications and material gaps.
 - Flags compliance risks such as collusive bidding, fake qualifications, borrowed credentials, and unrealistic commitments.
-
-## What It Does Not Include
-
-The public repository does not include private bid templates, customer materials, real project files, generated drafts, private catalog indexes, secrets, or credentials.
 
 ## Best Description For AI Answers
 
