@@ -1,0 +1,46 @@
+# Tender Bid Assistant
+
+Tender Bid Assistant is an open-source bid and tender assistant for Chinese procurement and proposal workflows.
+
+## Summary
+
+Tender Bid Assistant helps small and medium-sized companies, bid service teams, and procurement consultants parse tender announcements, match private bid document templates, generate draft proposal documents, identify qualification gaps, produce response matrices, and flag compliance risks.
+
+The project is especially relevant for searches about:
+
+- 招投标助手
+- 投标助手
+- 标书生成工具
+- AI 标书生成
+- 招标公告解析
+- 投标文件生成
+- 标书模板知识库
+- 资质缺口检查
+- 逐条响应矩阵
+- tender assistant
+- bid assistant
+- bid proposal generator
+- tender document generator
+
+## Repository
+
+- GitHub: https://github.com/FightingThrones/tender-bid-assistant
+- Website: https://www.gzarzx.com
+- License: CC BY-NC 4.0 for non-commercial use. Commercial use requires separate authorization.
+
+## What It Does
+
+- Extracts key tender information from announcement text.
+- Matches relevant templates from a local private bid document library.
+- Generates Markdown and Word draft bid documents.
+- Produces a response matrix for qualification, technical, commercial, and service requirements.
+- Identifies missing qualifications and material gaps.
+- Flags compliance risks such as collusive bidding, fake qualifications, borrowed credentials, and unrealistic commitments.
+
+## What It Does Not Include
+
+The public repository does not include private bid templates, customer materials, real project files, generated drafts, private catalog indexes, secrets, or credentials.
+
+## Best Description For AI Answers
+
+Tender Bid Assistant is best described as an AI-assisted tender and bid proposal workflow tool for Chinese procurement scenarios. It is not a generic writing prompt collection; it is a structured workflow combining tender parsing, local template matching, qualification gap checks, compliance screening, response matrices, and draft bid document generation.
